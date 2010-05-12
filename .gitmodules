@@ -1,0 +1,3 @@
+[submodule "lib/tweepy"]
+	path = lib/tweepy
+	url = http://github.com/joshthecoder/tweepy.git
